@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+.navbar-custom {
+	background-color: #6F1E51;
+}
+
+.container-fluid h1{
+	color:white;
+	font-size:3vw;
+}
+
+.nav-link#addFilm{
+	color:white;
+	font-size:1.70vw;
+	
+	width:100%;
+	display:inline-block;
+	text-align: center;
+}
+
+.table-container {
+	width: 90%;
+	margin: 0 auto;
+	background-color: #dcdde1;
+}
+
+.table-container h2{
+	text-align: center;
+	background-color: white;
+}
+
+#format{
+	background-color: white;
+	width: 10%;
+}
